@@ -1,4 +1,5 @@
-# CSS Selectors Exercise just using Table HTML
+# CSS Selectors Exercise using Table HTML & style with CSS
+
 
 ## Data Structure
 * Create **Chessboard** using Table and no Class or ID and your css file should not be more than 25 line.
@@ -31,4 +32,4 @@ nth-child(odd)
 
 #### Result
 
-[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/CSS-Selector-Exercise-Periodic-Table/)
+[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/CSS-Selector-Exercise-Chessboard/)
