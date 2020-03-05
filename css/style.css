@@ -9,12 +9,12 @@ h1:hover {
   margin: 10px;
   font-size:3rem;
   color: chocolate;
-  transition: 3s;
+  transition: 2s;
 }
-table td {
+table{
   border: 2px solid black;
-  width: 70px;
-  height: 70px;
+  width: 600px;
+  height: 600px;
   border-spacing: 0;
   }
 
