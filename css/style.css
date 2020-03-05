@@ -6,7 +6,7 @@
   color: black;
 }
 h1:hover {
-  margin: 3px;
+  margin: 2px;
   font-size:3rem;
   color: chocolate;
   transition: 2s;
