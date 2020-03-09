@@ -16,6 +16,10 @@
 <table>  -->   
 
 ```
+- [Click here to see HTML Code](index.html)
+
+
+
 
  ```css
  /* in CSS using pseudo classes like:
@@ -24,6 +28,9 @@ nth-child(odd)
  */
                                        
 ```
+
+- [Click here to see CSS Code](css/style.css)
+
 ### See the code here
 * [HTML](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Chessboard/blob/master/index.html)
 * [CSS](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Chessboard/blob/master/css/style.css)
