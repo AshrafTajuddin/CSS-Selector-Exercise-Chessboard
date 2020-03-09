@@ -31,9 +31,7 @@ nth-child(odd)
 
 - [Click here to see CSS Code](css/style.css)
 
-### See the code here
-* [HTML](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Chessboard/blob/master/index.html)
-* [CSS](https://github.com/AshrafTajuddin/CSS-Selector-Exercise-Chessboard/blob/master/css/style.css)
+
 
 ### Resources
 * [Even and Odd Rules](https://www.w3.org/Style/Examples/007/evenodd.en.html)
